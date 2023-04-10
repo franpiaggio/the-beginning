@@ -130,8 +130,8 @@ function init() {
   controls.enableDamping = true
   controls.minDistance = 3.5
   controls.maxDistance = 4.5
-  controls.minPolarAngle = 1.2; // radians
-  controls.maxPolarAngle = 1.8;
+  // controls.minPolarAngle = 1.2; // radians
+  // controls.maxPolarAngle = 1.8;
 
   controls.minAzimuthAngle = -0.3
   controls.maxAzimuthAngle = 0.3
